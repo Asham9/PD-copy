@@ -1,0 +1,11 @@
+export {default as HomeLayout} from './HomeLayout'
+export {default as Home} from './Home'
+export {default as Error} from './Error'
+export {default as Feedback} from './Feedback'
+export {default as Services} from './Services'
+export {default as Blogs} from './Blogs'
+export {default as GalleryEvents} from './GalleryEvents'
+export {default as AdminLogin} from './AdminLogin'
+export {default as AdminDashboard} from './AdminDashboard'
+export {default as ContactUs} from './ContactUs'
+
